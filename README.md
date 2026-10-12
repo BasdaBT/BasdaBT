@@ -36,7 +36,7 @@ sunan MSP430G2553 tabanlı gömülü sistem.
 
 `MSP430G2553` `C` `ADC` `GPIO Interrupt` `PWM` `I2C` `UART`
 
-### FPGA Üzerinde 8 Bit Kuantize CNN Hızlandırıcısı
+### [FPGA Üzerinde 8 Bit Kuantize CNN Hızlandırıcısı](https://github.com/BasdaBT/FPGA-MNIST-CNN-Accelerator)
 
 MNIST el yazısı rakam tanıma modeli için Basys3 FPGA üzerinde geliştirilen
 Verilog HDL tabanlı hızlandırıcı. Kuantize ağırlıklar Python ile üretilerek
